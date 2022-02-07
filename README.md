@@ -28,7 +28,7 @@ The database comes pre-populated with these user accounts created as part of the
    ```
 
 3) Go to the directory:
-   ```
+   ``` 
    cd NodeGoat
    ```
 
